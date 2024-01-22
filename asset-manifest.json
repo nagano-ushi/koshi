@@ -1,0 +1,13 @@
+{
+  "main.css": "/koshi/static/css/main.beef46d8.chunk.css",
+  "main.js": "/koshi/static/js/main.1c74e0a3.chunk.js",
+  "main.js.map": "/koshi/static/js/main.1c74e0a3.chunk.js.map",
+  "static/js/1.6da2dfa5.chunk.js": "/koshi/static/js/1.6da2dfa5.chunk.js",
+  "static/js/1.6da2dfa5.chunk.js.map": "/koshi/static/js/1.6da2dfa5.chunk.js.map",
+  "runtime~main.js": "/koshi/static/js/runtime~main.d90c9211.js",
+  "runtime~main.js.map": "/koshi/static/js/runtime~main.d90c9211.js.map",
+  "static/css/main.beef46d8.chunk.css.map": "/koshi/static/css/main.beef46d8.chunk.css.map",
+  "index.html": "/koshi/index.html",
+  "precache-manifest.da021bfdf6a8684f20271b8fba0f2ce1.js": "/koshi/precache-manifest.da021bfdf6a8684f20271b8fba0f2ce1.js",
+  "service-worker.js": "/koshi/service-worker.js"
+}
